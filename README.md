@@ -227,7 +227,7 @@ Data Analyst | Python | SQL | Excel | Power BI | Looker Studio | Machine Learnin
 
 LinkedIn: www.linkedin.com/in/ayush-wasu
 
-GitHub: https://github.com/YOUR-GITHUB
+
 
 ---
 
